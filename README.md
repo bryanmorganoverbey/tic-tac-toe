@@ -10,11 +10,8 @@ The game will ask if you want to play vs the AI, or if you want the AI to play i
 
 For Human vs AI, the game board is set up as follows:
 
-    0 | 1 | 2
-  -------------
-    3 | 4 | 5
-  -------------
-    6 | 7 | 8
+  <img width="124" alt="image" src="https://github.com/bryanmorganoverbey/tic-tac-toe/assets/22714090/4a69d1f6-f395-47c1-b477-ea07f17f46ef">
+
 
 You choose your move by entering a number 0..8 for which square you would like to play.
 
