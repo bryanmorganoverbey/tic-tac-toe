@@ -1,5 +1,5 @@
 import { AiAgent } from "../src/AIAgent";
-import { describe, it, expect, beforeEach } from "vitest"
+import { describe, it, expect } from "vitest"
 
 
 describe('AiAgent test', () => {

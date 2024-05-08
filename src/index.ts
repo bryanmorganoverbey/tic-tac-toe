@@ -44,7 +44,7 @@ or enter 1 for human vs. AI.\n\n\n', (answer) => {
       } else { game.printGameWon() }
     } else if (numPlayers === 1) {
       // Human's turn
-      rl.question('Enter a number 0 through 9 to place your next move.\n', (answer: string) => {
+      rl.question('Enter a number 0 through 8 to place your next move.\n', (answer: string) => {
         if (answer < "0" || answer > "9") {
           console.log("Error. Please enter a number 1 .. 8.");
           process.exit();
